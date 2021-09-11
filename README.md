@@ -1,5 +1,7 @@
 ## Laravel 8 + Vue 3 + Tailwindcss v3 Integration
 
+This is a boilerplate of the integration of Laravel 8, Vue.js 3 and Tailwindcss
+
 ### Clone and run
 
 `git clone `
@@ -24,3 +26,4 @@ _I used yarn so you can install yarn by `npm i --global yarn`_
 11. open <https://tailwindcss.com/docs/guides/laravel> and copy the guide
 12. run `yarn run watch`
 13. some modifications of Home.vue, add chitchat from tailwindcss . com
+
