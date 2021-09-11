@@ -4,8 +4,10 @@ This is a boilerplate of the integration of Laravel 8, Vue.js 3 and Tailwindcss
 
 ### Clone and run
 
-`git clone `
+`git clone https://github.com/kenLovesToCode/laravel8-vue3-tailwindcss-integration.git`
+
 `yarn`
+
 `yarn run hot`
 
 ### Guide
